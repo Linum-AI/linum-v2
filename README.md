@@ -84,8 +84,7 @@ uv run python generate_video.py \
 ```
 
 
-https://github.com/user-attachments/assets/ec34132f-9ff8-4324-a4bd-2ca682d122b7
-
+https://github.com/user-attachments/assets/e37c9944-5fb4-4d85-80ff-fd6bc87e84d5
 
 Weights are automatically downloaded from HuggingFace Hub on first run (~20GB per model).
 
