@@ -4,8 +4,6 @@
 
 <p align="center">
   <a href="https://www.linum.ai/field-notes/launch-linum-v2"><strong><font size="5">✨ Check out the launch</font></strong></a>
-  <br><br>
-  <a href="https://replicate.com/linum-ai/linum-v2-720p"><img src="assets/replicate.svg" height="32" alt="Replicate"> <strong><font size="5">Try on Replicate</font></strong></a>
 </p>
 
 
@@ -79,13 +77,12 @@ uv run python generate_video.py \
     --prompt "A cute 3D animated baby goat with shaggy gray fur, a fluffy white chin tuft, and stubby curved horns perches on a round wooden stool. Warm golden studio lights bounce off its glossy cherry-red acoustic guitar as it rhythmically strums with a confident hoof, hind legs dangling. Framed family portraits of other barnyard animals line the cream-colored walls, a leafy potted ficus sits in the back corner, and dust motes drift through the cozy, sun-speckled room." \
     --output goat.mp4 \
     --seed 16 \
-    --cfg 7.0 \
+    --cfg 10.0 \
     --resolution 360p
 ```
 
 
-https://github.com/user-attachments/assets/ec34132f-9ff8-4324-a4bd-2ca682d122b7
-
+https://github.com/user-attachments/assets/e37c9944-5fb4-4d85-80ff-fd6bc87e84d5
 
 Weights are automatically downloaded from HuggingFace Hub on first run (~20GB per model).
 
