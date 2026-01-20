@@ -79,7 +79,7 @@ uv run python generate_video.py \
     --prompt "A cute 3D animated baby goat with shaggy gray fur, a fluffy white chin tuft, and stubby curved horns perches on a round wooden stool. Warm golden studio lights bounce off its glossy cherry-red acoustic guitar as it rhythmically strums with a confident hoof, hind legs dangling. Framed family portraits of other barnyard animals line the cream-colored walls, a leafy potted ficus sits in the back corner, and dust motes drift through the cozy, sun-speckled room." \
     --output goat.mp4 \
     --seed 16 \
-    --cfg 7.0 \
+    --cfg 10.0 \
     --resolution 360p
 ```
 
