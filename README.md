@@ -69,7 +69,7 @@ uv run python generate_video.py \
     --cfg 7.0
 ```
 
-https://github.com/user-attachments/assets/133a8df7-cae4-4814-8000-44e657946a18
+https://github.com/user-attachments/assets/13c50d93-8a09-4aea-b12f-8695685d9665
 
 ```bash
 # 360p (faster, lower VRAM)
