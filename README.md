@@ -1,7 +1,10 @@
 <p align="center">
   <a href="https://www.linum.ai/">
-    <img src="assets/Linum Logo Jan 2026.svg#gh-light-mode-only" alt="Linum AI" width="200">
-    <img src="assets/linum-logo-dark.svg#gh-dark-mode-only" alt="Linum AI" width="200">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/linum-logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/Linum Logo Jan 2026.svg">
+      <img src="assets/Linum Logo Jan 2026.svg" alt="Linum AI" width="200">
+    </picture>
   </a>
 </p>
 
@@ -214,26 +217,38 @@ Thank you to our investors and infrastructure partners:
   <a href="https://www.ycombinator.com/"><img src="assets/yc.svg" alt="Y Combinator" height="36" style="vertical-align: middle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://adverb.vc/">
-    <img src="assets/adverb.svg#gh-light-mode-only" alt="Adverb Ventures" height="40" style="vertical-align: middle">
-    <img src="assets/adverb-light.svg#gh-dark-mode-only" alt="Adverb Ventures" height="40" style="vertical-align: middle">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/adverb-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/adverb.svg">
+      <img src="assets/adverb.svg" alt="Adverb Ventures" height="40" style="vertical-align: middle">
+    </picture>
   </a>
 </p>
 <br><br>
 <p align="center">
   <a href="https://crusoe.ai/">
-    <img src="assets/crusoe.svg#gh-light-mode-only" alt="Crusoe" height="28" style="vertical-align: middle">
-    <img src="assets/crusoe-light.svg#gh-dark-mode-only" alt="Crusoe" height="28" style="vertical-align: middle">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/crusoe-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/crusoe.svg">
+      <img src="assets/crusoe.svg" alt="Crusoe" height="28" style="vertical-align: middle">
+    </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.together.ai/">
-    <img src="assets/together.svg#gh-light-mode-only" alt="Together AI" height="28" style="vertical-align: middle">
-    <img src="assets/together-light.svg#gh-dark-mode-only" alt="Together AI" height="28" style="vertical-align: middle">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/together-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/together.svg">
+      <img src="assets/together.svg" alt="Together AI" height="28" style="vertical-align: middle">
+    </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cloudflare.com/"><img src="assets/cloudflare.svg" alt="Cloudflare" height="32" style="vertical-align: middle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.ubicloud.com/">
-    <img src="assets/ubicloud.png#gh-light-mode-only" alt="Ubicloud" height="34" style="vertical-align: middle">
-    <img src="assets/ubicloud_orange.svg#gh-dark-mode-only" alt="Ubicloud" height="34" style="vertical-align: middle">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/ubicloud_orange.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/ubicloud.png">
+      <img src="assets/ubicloud.png" alt="Ubicloud" height="34" style="vertical-align: middle">
+    </picture>
   </a>
 </p>
