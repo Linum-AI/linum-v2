@@ -40,28 +40,6 @@ cd linum-v2
 uv sync
 ```
 
-### Flash Attention 3 (Optional, Hopper GPUs only)
-
-For best performance on H100/H200 GPUs, install Flash Attention 3:
-
-```bash
-deactivate # deactivate any current env
-hash -r  # clear shell's command cache
-source .venv/bin/activate # reactivate
-MAX_JOBS=4 pip install flash-attn --no-build-isolation
-pip install triton==3.5.0
-```
-
-If you see this warning don't worry, we need triton 3.5.0 in order to play with the bitsandbytes version used by diffusers:
-```
-ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.                                         
-torch 2.7.1+cu128 requires triton==3.3.1; platform_system == "Linux", but you have triton 3.5.0 which is incompatible.
-```
-
-**Note:** Flash Attention 3 only works on Hopper architecture (H100, H200).
-On other GPUs (e.g., Ada/RTX 4090), the code automatically falls back to
-PyTorch's scaled_dot_product_attention (SDPA).
-
 ## Quick Start
 
 Generate your first video:
