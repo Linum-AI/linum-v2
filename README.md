@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.linum.ai/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/linum-logo-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/linum-logo-ondark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/Linum Logo Jan 2026.svg">
       <img src="assets/Linum Logo Jan 2026.svg" alt="Linum AI" width="200">
     </picture>
@@ -216,7 +216,7 @@ Thank you to our investors and infrastructure partners:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://adverb.vc/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/adverb-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/adverb-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/adverb.svg">
       <img src="assets/adverb.svg" alt="Adverb Ventures" height="40" style="vertical-align: middle">
     </picture>
@@ -226,7 +226,7 @@ Thank you to our investors and infrastructure partners:
 <p align="center">
   <a href="https://crusoe.ai/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/crusoe-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/crusoe-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/crusoe.svg">
       <img src="assets/crusoe.svg" alt="Crusoe" height="28" style="vertical-align: middle">
     </picture>
@@ -234,7 +234,7 @@ Thank you to our investors and infrastructure partners:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.together.ai/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/together-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/together-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/together.svg">
       <img src="assets/together.svg" alt="Together AI" height="28" style="vertical-align: middle">
     </picture>
@@ -244,9 +244,9 @@ Thank you to our investors and infrastructure partners:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.ubicloud.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/ubicloud-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/ubicloud-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/ubicloud.png">
-      <img src="assets/ubicloud.png" alt="Ubicloud" height="24" style="vertical-align: middle">
+      <img src="assets/ubicloud.png" alt="Ubicloud" height="32" style="vertical-align: middle">
     </picture>
   </a>
 </p>
