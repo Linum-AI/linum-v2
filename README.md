@@ -245,8 +245,8 @@ Thank you to our investors and infrastructure partners:
   <a href="https://www.ubicloud.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ubicloud-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/ubicloud.png">
-      <img src="assets/ubicloud.png" alt="Ubicloud" height="32" style="vertical-align: middle">
+      <source media="(prefers-color-scheme: light)" srcset="assets/ubicloud.svg">
+      <img src="assets/ubicloud.svg" alt="Ubicloud" height="22" style="vertical-align: middle">
     </picture>
   </a>
 </p>
