@@ -11,7 +11,14 @@
 <p align="center">
   <a href="https://www.linum.ai/field-notes/launch-linum-v2"><strong><font size="5">✨ Check out the launch</font></strong></a>
   <br><br>
-  <a href="https://replicate.com/linum-ai/linum-v2"><img src="assets/replicate.svg" height="32" alt="Replicate"> <strong><font size="5">Try on Replicate</font></strong></a>
+  <a href="https://replicate.com/linum-ai/linum-v2">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/replicate-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/replicate.svg">
+      <img src="assets/replicate.svg" height="32" alt="Replicate">
+    </picture>
+    <strong><font size="5">Try on Replicate</font></strong>
+  </a>
 </p>
 
 
@@ -246,7 +253,7 @@ Thank you to our investors and infrastructure partners:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.ubicloud.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/ubicloud_orange.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/ubicloud-light.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/ubicloud.png">
       <img src="assets/ubicloud.png" alt="Ubicloud" height="34" style="vertical-align: middle">
     </picture>
