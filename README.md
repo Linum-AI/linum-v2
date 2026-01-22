@@ -15,7 +15,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/replicate-light.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/replicate.svg">
-      <img src="assets/replicate.svg" height="32" alt="Replicate">
+      <img src="assets/replicate.svg" height="20" alt="Replicate">
     </picture>
     <strong><font size="5">Try on Replicate</font></strong>
   </a>
@@ -255,7 +255,7 @@ Thank you to our investors and infrastructure partners:
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ubicloud-light.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/ubicloud.png">
-      <img src="assets/ubicloud.png" alt="Ubicloud" height="34" style="vertical-align: middle">
+      <img src="assets/ubicloud.png" alt="Ubicloud" height="24" style="vertical-align: middle">
     </picture>
   </a>
 </p>
