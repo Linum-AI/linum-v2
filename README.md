@@ -10,15 +10,6 @@
 
 <p align="center">
   <a href="https://www.linum.ai/field-notes/launch-linum-v2"><strong><font size="5">✨ Check out the launch</font></strong></a>
-  <br><br>
-  <a href="https://replicate.com/linum-ai/linum-v2">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/replicate-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/replicate.svg">
-      <img src="assets/replicate.svg" height="20" alt="Replicate">
-    </picture>
-    <strong><font size="5">Try on Replicate</font></strong>
-  </a>
 </p>
 
 
